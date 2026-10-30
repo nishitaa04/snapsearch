@@ -1,0 +1,9 @@
+venv/
+data/
+deploy/
+archive (2)/
+__pycache__/
+/embeddings.npy
+/filenames.txt
+flower_bouquet.jpg
+mine.jpg
