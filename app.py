@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 
 # SWITCH BETWEEN VERSIONS:
 # True  -> full dataset (8,091 photos, reads data/Images + embeddings.npy)
-# False -> demo copy (2,000 photos, reads the deploy folder)
+# False -> local shrunk copy in deploy/ (not included in the repo; only for the author's laptop)
 
 USE_FULL = True
 
